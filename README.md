@@ -1,1 +1,2 @@
-مشاهده خروجی پروژه https://aminojaghloo.github.io/PJ-studio/
+Live Output:
+https://aminojaghloo.github.io/PJ-studio/
