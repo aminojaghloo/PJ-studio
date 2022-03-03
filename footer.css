@@ -1,0 +1,10 @@
+.footer__logo img{
+    width: 15rem;
+    height: 5rem;
+}
+
+.footer__area{
+    background-color: rgba(64, 224, 208, 0.075);
+    border-radius: 1.5rem;
+
+}
