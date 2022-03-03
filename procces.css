@@ -38,12 +38,7 @@
 .procces__item--box:hover{
     transform: translateY(-2rem);
 }
-.procces__item--box i{
- padding: 1.5rem;
- border-radius: 1rem;
- margin-bottom: 2rem;
- color: var(--light-color);
-}
+
 
 .procces__item--box h3{
     font-size: 2rem;
@@ -58,16 +53,7 @@
     color: var(--secondary-color);
     margin-bottom: 1.5rem;
 }
-i.box--daily{
-    background-color: #e84118;
-}
-i.box--shield{
-    background-color: #0097e6;
-}
 
-i.box--testing{
-    background-color: #4cd137;
-}
 .procces__active{
     transition: all 0.3 ease-in-out;
     box-shadow: 3rem 2.5rem 3rem 2rem rgba(128, 128, 128, 0.097);

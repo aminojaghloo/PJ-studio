@@ -1,13 +1,15 @@
-.signup__img img{
+.signup__item img{
     width: 40rem;
     height: 40rem;
-
 }
-.signup__text{
-    padding: 2rem;
-    display: flex;
-    flex-direction: column;
+.signup__wrapper{
+    position: relative;
+    left: 16%;
+    padding:0 15rem;
+    border-radius: 1.5rem;
+    box-shadow: 3rem 2.5rem 3rem 2rem rgba(128, 128, 128, 0.097);
+    display: inline-flex ;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-
 }

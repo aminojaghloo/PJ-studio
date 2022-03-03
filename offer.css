@@ -2,11 +2,12 @@
     min-height: 20vh;  
 }
 .offer__wrapper--item1 img {
-    width: 40rem;
-    height: 45rem;
+    width: 65rem;
+    height: 60rem;
 }
 .offer__box{
     /* background-color: var(--light-color); */
+    border-left: 4px solid var(--primary-color);
     border-radius: 1.5rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.04);
     margin: 2rem 12rem;
